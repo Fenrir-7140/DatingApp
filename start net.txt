@@ -16,3 +16,6 @@ dotnet ef database update
 dotnet watch
 
 dotnet new gitignore
+
+npm install -g @angular/cli
+ng new client
