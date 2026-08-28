@@ -19,3 +19,8 @@ dotnet new gitignore
 
 npm install -g @angular/cli
 ng new client
+
+https://angular.dev/guide/tailwind
+npm install tailwindcss @tailwindcss/postcss
+
+https://daisyui.com/docs/install/
